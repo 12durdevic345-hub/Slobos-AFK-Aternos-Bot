@@ -1,12 +1,12 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "cIGANNEBESKI",
+    "username": "CIGANNEBESKI",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "Server67-eDvW.aternos.me",
+    "ip": "hamster.aternos.host:51886",
     "port": 51886,
     "version": "",
     "try-creative": false
